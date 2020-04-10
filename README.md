@@ -1,2 +1,2 @@
-# 200exp
+# 200examples
 Metu Phys200 Exp
